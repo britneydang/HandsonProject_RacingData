@@ -24,6 +24,7 @@ Databricks Clusters
 - Create cluster: Databricks workspace -> Compute -> all-purpose compute -> create compute ->
 ![image](https://github.com/britneydang/HandsonProject_RacingData/assets/110323703/bbc9625e-c953-4a82-b482-9084945d73eb)
 - Create Cluster Pool: Compute -> Pools -> Create Pool
+
 ![image](https://github.com/britneydang/HandsonProject_RacingData/assets/110323703/fe2eb189-096d-4de2-9a33-510705133e73)
 - Create All-purpose compute: Compute -> all-purpose compute -> create compute -> select the previous created pool for note type -> to test how long it take to create a cluster with and without a cluster pool.
 - Create Policy -> to set something at a certain value so user cannot select other option. Script is written in JSON format
